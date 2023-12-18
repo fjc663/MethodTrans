@@ -10,7 +10,8 @@
 
 # data
 
-> 数据集在[https://drive.google.com/drive/folders/1d_NvJbTYLB5lXbBzruwsKHwuRSvBs3hT?usp=drive_link](https://drive.google.com/drive/folders/1d_NvJbTYLB5lXbBzruwsKHwuRSvBs3hT?usp=drive_link)可以找到
+> The dataset is at https://drive.google.com/drive/folders/1d_NvJbTYLB5lXbBzruwsKHwuRSvBs3hT?usp=drive_link
+can be found
 
 # DataProcessing
 
